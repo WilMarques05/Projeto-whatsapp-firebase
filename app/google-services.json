@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "215911870230",
+    "project_id": "projetowhatsappfirebase-b7173",
+    "storage_bucket": "projetowhatsappfirebase-b7173.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:215911870230:android:deee7bd173a9d8f7382a37",
+        "android_client_info": {
+          "package_name": "com.willismarques.projetowhatsappfirebase"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDkv_RGpdOxnV5eVXQa32aZhbGgH0NVdbo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
